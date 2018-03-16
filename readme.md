@@ -1,0 +1,1 @@
+# Tailwind Default Configuration
